@@ -16,7 +16,7 @@ const About = () => {
                         </div>
                     </div>
                     <div id="a2">
-                        <p id="p1" className="animate__zoomInLeft vishal">
+                        <p id="p1" className="animate__zoomInRight vishal">
                             I believe that I can be a good team player with the ability to
                             work under minimum guidance especially when  carrying out challenging assignment.
                             I consider myself as a very ambitious, motivated, career oriented person, willing

@@ -3,6 +3,7 @@ import React from "react";
 import './layout.css'
 import Skills from "./Skills";
 import About from "./About";
+
 const Layout = () => {
   return (
     <>
@@ -12,7 +13,7 @@ const Layout = () => {
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style={{color:"white"}}>
               <span class="navbar-toggler-icon " style={{color:"white",backgroundColor:"whitesmoke"}}></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="collapse navbar-collapse " id="navbarSupportedContent">
               <ul class="navbar-nav me-auto mb-2 mb-lg-0 nav1">
                 <li class="nav-item" >
                   <Link to="/" style={{ color: "white" }}  className="y1">Home</Link>
@@ -40,7 +41,7 @@ const Layout = () => {
             </div> 
           </div>
         </nav>
-        <h1 className="k1" style={{ textAlign: "center", fontSize: "50px", color: "white", marginTop: "100px" }}>
+        <h1 className="animate__zoomInUp k1" style={{ textAlign: "center", fontSize: "50px", color: "white", marginTop: "100px" }}>
           Vishal Nagal
         </h1>
       </div>  
