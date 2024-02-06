@@ -1,0 +1,519 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+
+}
+
+#main1 {
+    height: 450px;
+    background-image: url(../cubicals.jpg);
+    opacity: 0.7;
+
+    padding-top: 20px;
+    height: 450px;
+    width: 100vmax;
+    background-size: 1280px 750px;
+
+    /* position: fixed; */
+    background-attachment: fixed;
+}
+
+.nav1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+
+}
+
+.nav1 ul li {
+    text-align: center;
+    justify-content: center;
+}
+
+#a1 {
+    width: 100px;
+    height: 200px;
+ background: transparent;
+
+    margin-top: -2.7cm;
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+  
+
+}
+
+#img1 {
+    height: 210px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: -2.7cm;
+    position: relative;
+    /* margin-left: 470px; */
+}
+.z1{background: transparent;}
+
+#a2 {
+
+    padding: 10px;
+    width: 100%;
+    text-align: justify;
+    color: grey;
+    line-height: 28px;
+    font-size: 1.1rem;
+    /* text-align: center; */
+}
+
+#p1 {
+    text-align: justify;
+    color: grey;
+    line-height: 28px;
+    font-size: 1.17rem;
+    /* margin-right: 40px; */
+    text-align: center;
+}
+
+#a4 {
+    
+    height: 500px;
+    color:
+}
+
+
+
+
+
+@media screen and (max-width: 450px) {
+    #img1 {
+        margin-left: 0px;
+    }
+
+    .nav1 ul li {
+        text-align: center;
+        justify-content: center;
+    }
+
+    .e3 {
+        padding-top: 40px;
+    }
+
+    .timeline-divider1 {
+        position: absolute;
+        width: 0;
+
+        /* border: 2px dashed #9ce4866b; */
+        height: 530px;
+        color: #433E3F;
+    }
+
+    .timeline-travler1 {
+        position: sticky;
+        top: 455px;
+        z-index: 2;
+    }
+}
+
+.s1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.s2 {
+    background-color: rgb(247, 247, 247);
+    padding-top: 30px;
+}
+
+.b1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.b2 {}
+
+.p1 {
+    width: 80%;
+    height: 30px;
+    background-color: rgb(201, 205, 206);
+}
+
+.p11 {
+    width: 80%;
+    height: 30px;
+    background-color: red;
+}
+
+.p2 {
+    width: 80%;
+    height: 30px;
+    background-color: rgb(201, 205, 206);
+}
+
+.p22 {
+    width: 80%;
+    height: 30px;
+    background-color: rgb(184, 184, 95);
+}
+
+.p3 {
+    width: 80%;
+    height: 30px;
+    background-color: rgb(201, 205, 206);
+}
+
+.p33 {
+    width: 70%;
+    height: 30px;
+    background-color: rgb(217, 162, 23);
+}
+
+.p4 {
+    width: 80%;
+    height: 30px;
+    background-color: rgb(201, 205, 206);
+}
+
+.p44 {
+    width: 60%;
+    height: 30px;
+    background-color: rgb(75, 48, 198);
+}
+
+.p5 {
+    width: 80%;
+    height: 30px;
+    background-color: rgb(201, 205, 206);
+}
+
+.p55 {
+    width: 30%;
+    height: 30px;
+    background-color: rgb(128, 37, 37);
+}
+
+.p6 {
+    width: 80%;
+    height: 30px;
+    background-color: rgb(201, 205, 206);
+}
+
+.p66 {
+    width: 22%;
+    height: 30px;
+    background-color: rgb(14, 190, 19);
+}
+
+.main4 {
+    background-color: rgb(225, 225, 225);
+}
+
+.e1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.e2 {
+    text-align: center;
+    display: flex;
+
+}
+
+.e3 {
+    padding-top: 300px;
+    text-align: center;
+    display: flex;
+}
+
+.e4 {
+    line-height: 2rem;
+}
+
+@media screen and (max-width: 990px) {
+    .y1 {
+        margin-left: 30px;
+    }
+
+
+
+
+}
+
+@media screen and (max-width: 750px) {
+    .y1 {
+        margin-left: 30px;
+    }
+
+    .e3 {
+        padding-top: 100px;
+    }
+
+    .timeline-divider1 {
+        position: absolute;
+        width: 0;
+
+        /* border: 2px dashed #9ce4866b; */
+        height: 470px;
+        color: #433E3F;
+    }
+
+    .timeline-travler1 {
+        position: sticky;
+        top: 455px;
+        z-index: 2;
+    }
+
+
+}
+
+.timeline-divider1 {
+    position: absolute;
+    width: 0;
+
+    /* border: 2px dashed #9ce4866b; */
+    height: 320px;
+    color: #433E3F;
+}
+
+.timeline-travler1 {
+    position: sticky;
+    top: 235px;
+    z-index: 2;
+}
+
+.airplane {
+    rotate: 180deg;
+    margin-left: -1vw;
+    /* position: relative; */
+    color: green
+}
+
+
+.main5 {
+    background-color: rgb(247, 247, 247);
+}
+
+.ee1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.airplane1 {
+    rotate: 180deg;
+    /* position: relative; */
+    color: green;
+    position: absolute;
+
+}
+
+.timeline-divider {
+    position: absolute;
+    width: 0;
+
+    /* border: 2px dashed #0096fa6b; */
+    height: 150px;
+    color: #433E3F;
+}
+
+.timeline-travler {
+    position: sticky;
+    top: 135px;
+    z-index: 2;
+    
+}
+
+.m1 {
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.n1 {
+    background-color: rgb(176, 179, 179);
+    height: 170px;
+    width: 80%;
+    margin-top: 20px;
+    box-shadow: #433E3F;
+    position: relative;
+    background-image: url(../Imdbmovie.png);
+    background-size: cover;
+}
+
+
+.n11 {
+    position: absolute;
+    transition: all  ease-in-out;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 80%;
+    color: transparent;
+    text-align: center;
+    padding: 10px;
+    color: transparent;
+}
+.text{
+    top: 50vh;
+}
+.n11:hover {
+    box-shadow: 0 0 20px #74ADC8;
+    font-size: 1.2rem;
+    width: 100%;
+    color: aliceblue;
+}
+
+.n1:hover .n11 {
+    background-color: rgb(0, 0, 0) ;
+    opacity: 0.9;
+    color: white;
+    width: 100%;
+}
+.n2 {
+    background-color: rgb(176, 179, 179);
+    height: 170px;
+    width: 80%;
+    margin-top: 20px;
+    box-shadow: #433E3F;
+    position: relative;
+    background-image: url(../RoveIndia.jpg);
+    background-size: cover;
+}
+.n2:hover .n11 {
+    background-color: rgb(0, 0, 0) ;
+    opacity: 0.9;
+    color: white;
+    width: 100%;
+}
+
+.t1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.n3 {
+    background-color: rgb(176, 179, 179);
+    height: 170px;
+    width: 80%;
+    margin-top: 20px;
+    box-shadow: #433E3F;
+    position: relative;
+    background-image: url(../Screenshot.png);
+    background-size: cover;
+}
+.n3:hover .n11 {
+    background-color: rgb(0, 0, 0) ;
+    opacity: 0.5;
+    color: white;
+    width: 100%;
+}
+.n4 {
+    background-color: rgb(176, 179, 179);
+    height: 170px;
+    width: 80%;
+    margin-top: 20px;
+    box-shadow: #433E3F;
+    position: relative;
+    background-image: url(../solar\ system.png);
+    background-size: cover;
+}
+.n4:hover .n11 {
+    background-color: rgb(0, 0, 0) ;
+    opacity: 0.5;
+    color: white;
+    width: 100%;
+    /* animation: ease-in; */
+}
+.n5 {
+    background-color: rgb(176, 179, 179);
+    height: 170px;
+    width: 80%;
+    margin-top: 20px;
+    box-shadow: #433E3F;
+    position: relative;
+    background-image: url(../Screenshot2.png);
+    background-size: cover;
+}
+.n5:hover .n11 {
+    background-color: rgb(0, 0, 0) ;
+    opacity: 0.9;
+    color: white;
+    width: 100%;
+}
+.n6 {
+    background-color: rgb(176, 179, 179);
+    height: 170px;
+    width: 80%;
+    margin-top: 20px;
+    box-shadow: #433E3F;
+    position: relative;
+    background-image: url(../Screenshot3.png);
+    background-size: cover;
+}
+.n6:hover .n11 {
+    background-color: rgb(0, 0, 0) ;
+    opacity: 0.9;
+    color: white;
+    width: 100%;
+}
+
+
+
+
+
+
+.main6 {
+    color: whitesmoke;
+    background-image: linear-gradient(50deg, #2857a4 0%, #403066 74%);
+}
+
+.c1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+
+
+}
+
+.c3 {
+
+
+    text-align: center;
+}
+
+.c4 {
+    width: 100%;
+    background: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid whitesmoke;
+}
+
+.c5 {
+    background: transparent;
+    border: 2px solid whitesmoke;
+    height: 40px;
+    width: 180px;
+    color: whitesmoke;
+}
+
+.r1 {
+    margin: 20px;
+}
+
+.r3 {
+    text-align: center;
+    background-color: #2f2b2c;
+    color: whitesmoke;
+}
+
+.r4 {
+    color: rgb(206, 244, 117);
+}
+.vishal{animation: 3s;}
