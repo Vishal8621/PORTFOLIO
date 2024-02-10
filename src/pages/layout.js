@@ -4,10 +4,12 @@ import './layout.css'
 import Skills from "./Skills";
 import About from "./About";
 
+
 const Layout = () => {
   return (
     <>
     <div id="main1">
+     
         <nav class="navbar navbar-expand-lg navbar-light ">
           <div class="container-fluid">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style={{color:"white"}}>

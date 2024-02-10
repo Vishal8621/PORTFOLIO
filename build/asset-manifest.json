@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.8a5815ca.css",
-    "main.js": "/static/js/main.7d431b53.js",
+    "main.css": "/static/css/main.ad8e8d60.css",
+    "main.js": "/static/js/main.6980f7e6.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/Imdbmovie.png": "/static/media/Imdbmovie.b0eaf05d8c4588dc4327.png",
-    "static/media/BACKGROUND.jpg": "/static/media/BACKGROUND.bcab30988ef87be68b51.jpg",
     "static/media/img1.jpg": "/static/media/img1.7a7c334bcb880c3cb9e4.jpg",
+    "static/media/cubicals.jpg": "/static/media/cubicals.6289149ca8f56c30256c.jpg",
     "static/media/RoveIndia.jpg": "/static/media/RoveIndia.9ee944dfba8722249a75.jpg",
     "static/media/Screenshot2.png": "/static/media/Screenshot2.8f64560fa4b93d58fae9.png",
     "static/media/Screenshot1.png": "/static/media/Screenshot1.3aceeace62e3928acdf0.png",
     "static/media/Screenshot.png": "/static/media/Screenshot.fb856e1952b807166b3a.png",
+    "static/media/solar system.png": "/static/media/solar system.1986b5e9aad0745fbbdf.png",
     "static/media/Screenshot3.png": "/static/media/Screenshot3.2e0a83faea27b7311453.png",
     "index.html": "/index.html",
-    "main.8a5815ca.css.map": "/static/css/main.8a5815ca.css.map",
-    "main.7d431b53.js.map": "/static/js/main.7d431b53.js.map",
+    "main.ad8e8d60.css.map": "/static/css/main.ad8e8d60.css.map",
+    "main.6980f7e6.js.map": "/static/js/main.6980f7e6.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a5815ca.css",
-    "static/js/main.7d431b53.js"
+    "static/css/main.ad8e8d60.css",
+    "static/js/main.6980f7e6.js"
   ]
 }
